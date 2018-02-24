@@ -22,6 +22,3 @@ In according to your setting on alarm sensitivity, it will then sound emergency 
 
 
 [Download](https://www.instructables.com/id/Security-Device-With-Mobile-Phone-and-Arduino/)
-
-
-![image](https://cdn.instructables.com/F3O/WTYE/J6QQZ8UV/F3OWTYEJ6QQZ8UV.LARGE.jpg)
